@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-#  macOS and Linux Bash script to build Rust application hosted on Mynewt OS
+#  macOS and Linux Bash script to build Rust application hosted on Mynewt OS - test
 
 set -e  #  Exit when any command fails
 
