@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-#  Install Rust and Mynewt Build Tools for Raspberry Pi.  Based on https://mynewt.apache.org/latest/newt/install/newt_linux.html.  
+#  Install Rust and Mynewt Build Tools for Raspberry Pi.  Based on https://mynewt.apache.org/latest/newt/install/newt_linux.html.  - test
 
 echo "Installing Rust and Mynewt Build Tools for Raspberry Pi..."
 set -e  #  Exit when any command fails.
