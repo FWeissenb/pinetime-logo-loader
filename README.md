@@ -19,7 +19,7 @@
 #
 -->
 
-# PineTime Smart Watch Logo Loader
+# PineTime Smart Watch Logo Loader - Fork
 
 ![PineTime Logo Loader](https://lupyuen.github.io/images/logo-loader.jpg)
 
